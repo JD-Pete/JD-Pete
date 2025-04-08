@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-IM JD-Pete and am curretly going to Scottsdale Community College!
+IM JD-Pete!
 
 <!--
 **JD-Pete/JD-Pete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
